@@ -1,3 +1,7 @@
+
+# two_stream_notebook
+A jupyter notebook to demonstrate the results of the two stream approximation
+
 # Two stream approximation
 
 This project allows you to explore the two stream approximation for radiative transport.  
@@ -11,3 +15,4 @@ Alternatively, you can run on your local computer. To do so, once you have insta
 jupyter notebook two_stream.ipynb
 
 Be sure to remove any suffix that is not .ipynb on the notebook file you download. For example, some browsers will by default add a .txt to the downloaded file so that it has suffix .ipynb.txt. Remove the .txt before running.
+
